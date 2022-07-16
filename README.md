@@ -1,18 +1,18 @@
-<h1 align="left">  🚀🧑🏻‍💻 Hello there, I'm Aldo </h1>
+<h1 align="left"> Hey there, I'm Abinash  </h1>
 
-<p align="left"><img src="https://img.shields.io/github/followers/reinaldoriant?style=social" alt="" />  
+<p align="left"><img src="https://img.shields.io/github/followers/abinashnp?style=social" alt="" />  
 
-![](https://komarev.com/ghpvc/?username=reinaldoriant)
+![](https://komarev.com/ghpvc/?username=abinashnp)
  
- - 🙋🏻‍♂️ I'm experienced with Android and iOS development. 
- - 🙆🏻‍♂️ I'm currently to be part of Kompas Daily in Indonesia as Ex- iOS Developer and Android Developer.
- - 💁🏻‍♂️ I set myself as a hipster, hacker, and hustler. I am committed to my experience and knowledge for a challenge and learn more with new things.
+ - Experienced native Android Developer. 
+ - Little bit of experience in Computer Vision and Machine Learning.
+ - I know a thing or two about mobile app development
 
 <p align='left'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=reinaldoriant&show_icons=true&count_private=true" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=abinashnp&show_icons=true&count_private=true" width="350"></a>
 </p>
 <p align='left'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldoriant&layout=compact"></a></p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinashnp&layout=compact"></a></p>
 
 <p align="left">  💬 Ask me about :</p>
 <p align="left">
@@ -34,3 +34,4 @@
   <a href="mailto:abinash.neupane123@gmail.com" >
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  /></a>
 </p>
+ 
