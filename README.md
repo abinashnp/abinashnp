@@ -1,16 +1,36 @@
-### Hi there 👋
+<h1 align="left">  🚀🧑🏻‍💻 Hello there, I'm Aldo </h1>
 
-<!--
-**abinashnp/abinashnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"><img src="https://img.shields.io/github/followers/reinaldoriant?style=social" alt="" />  
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=reinaldoriant)
+ 
+ - 🙋🏻‍♂️ I'm experienced with Android and iOS development. 
+ - 🙆🏻‍♂️ I'm currently to be part of Kompas Daily in Indonesia as Ex- iOS Developer and Android Developer.
+ - 💁🏻‍♂️ I set myself as a hipster, hacker, and hustler. I am committed to my experience and knowledge for a challenge and learn more with new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='left'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=reinaldoriant&show_icons=true&count_private=true" width="350"></a>
+</p>
+<p align='left'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldoriant&layout=compact"></a></p>
+
+<p align="left">  💬 Ask me about :</p>
+<p align="left">
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/android/android.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></p>
+
+
+<p align="left"> 📫 How to reach me : </p>
+
+
+ 
+
+ <p align="left"> 
+ <a href="https://t.me/abinashnp" >
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="mailto:abinash.neupane123@gmail.com" >
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  /></a>
+</p>
